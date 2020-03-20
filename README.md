@@ -1,4 +1,4 @@
-# CAMPHOR- Code of Conduct
+# CAMPHOR- Code of Conduct (v1.0.0)
 この行動規範は、勉強会、トーク、ハンズオン、Twitter、Slack、その他のオンラインメディアを含め、全てのコミュニティイベントにおけるコミュニティの一員としての振る舞いについて述べたものです。
 
 ## 他者を尊重する
