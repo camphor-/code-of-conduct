@@ -20,7 +20,6 @@
 [クリエイティブ・コモンズ 表示 - 継承 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.ja)で公開されています。
 
 ## ライセンス表記
-
 このCode of Conductは以下のCode of Conductを変更・再利用しています。
 
 - [Community Code of Conduct日本語訳](https://gist.github.com/atsushieno/b6fa985354b5583f027d10618f6d1438)
