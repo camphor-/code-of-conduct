@@ -16,6 +16,9 @@
 
 このCode of Conductに反する問題のある行為を受けたり、困っていそうな人を発見した場合は、コミュニティ運営メンバーに連絡し対応を求めてください。
 
+- メールアドレス : support@camph.net
+- Twitter : [@CamphorKyoto](https://twitter.com/CamphorKyoto)
+
 ## ライセンス
 [クリエイティブ・コモンズ 表示 - 継承 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.ja)で公開されています。
 
